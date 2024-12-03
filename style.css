@@ -1,0 +1,29 @@
+h1 {
+    margin: 5px;
+    margin-bottom: 50px;
+    border: 5px solid red;
+    padding: 5px;
+    text-align: center;
+}
+
+#HP{
+    text-align: justify;
+    font-size: 30px;
+    border: 2px solid black;
+    background-color: aliceblue;
+}
+#AP{
+    text-align: justify;
+    font-size: 30px;
+    border: 2px solid black;
+    background-color: aqua;
+}
+#AC{
+    color: burlywood; 
+    background-color: aliceblue;
+}
+
+#HC{
+    color: rgb(54, 15, 8);
+    background-color: rgb(149, 202, 184);
+}
